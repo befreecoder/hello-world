@@ -1,3 +1,3 @@
 # hello-world
-Hello-world program
-it's my readme file.
+Hello-world program.
+It's my readme file.
